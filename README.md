@@ -22,13 +22,14 @@
 > 
 > >就我自己项目中的使用情况而言，一个月有效期。
 
-
+123123
 
 ## 使用用法
 * 点击右上角 `Fork` 项目；
 * `Settings` -> `Secrets` 中添加京东Cookie、Server酱SCKEY；
 	- `JD_COOKIE`：账号1Cookie
-	- `JD_DUAL_COOKIE`：账号2Cookie(选填)
+	- `JD_DUAL_COOKIE`：账
+	号2Cookie(选填) 
 	- `PUSH_KEY`：Server酱SCKEY
 * 点击`Star`，任务会自动执行，运行进度和结果可以在`Actions`页面查看；
 * 当任务运行完成时，会将运行结果和错误信息打包到`Artifacts`，可自行下载查看；
